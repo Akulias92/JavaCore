@@ -29,7 +29,7 @@ public class Calculator {
                 System.out.println(x*y);
                 break;
             default:
-                System.out.println("Greska");
+                System.out.println("Error");
             
             
         }
